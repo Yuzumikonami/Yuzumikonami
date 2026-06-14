@@ -1,10 +1,5 @@
 # 柚见小南Yuzumikonami
-一个普通初中生。。。
-
-#### 历史网名
-1.江南QwQ
-2.江南_XnLr
-3.柚见小南Yuzumikonami
+一个普通初中生QwQ。。。
 
 #### 目前开发语言   
 1.HTML   
@@ -25,6 +20,11 @@
 <a href=https://b23.tv/FDVU07L>我的B站主页</a>
 
 <a href=https://www.jnxnlr.top/>我的个人主页</a>
+
+#### 历史网名（其实也不怎么重要QwQ）
+1.江南QwQ
+2.江南_XnLr
+3.柚见小南Yuzumikonami
 
 >**路虽远，行则将至；事虽难，做则必成。**   
 >-----《荀子·修身》
