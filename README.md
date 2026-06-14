@@ -1,6 +1,11 @@
 # 柚见小南Yuzumikonami
 一个普通初中生。。。
 
+#### 历史网名
+1.江南QwQ
+2.江南_XnLr
+3.柚见小南Yuzumikonami
+
 #### 目前开发语言   
 1.HTML   
 2.CSS   
