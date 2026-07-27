@@ -6,13 +6,11 @@
 2.CSS   
 3.JavaScript   
 4.Python   
-5.Shell
+5.BashShell
 6.Kotlin
 
 #### 目前开发项目   
 <mark><a href=https://github.com/jiangnan-qwq/aethercraft>AetherCraft开服脚本</a></mark>   
-<a href=https://jnxnlr.dpdns.org>一个托管在CloudFlare的反向代理网站</a>   
-<a href=https://ba-logo.ct.ws>蔚蓝档案logo生成器</a>
 
 ---
 
@@ -21,10 +19,11 @@
 
 <a href=https://www.jnxnlr.top/>我的个人主页</a>
 
-#### 历史网名（其实也不怎么重要QwQ）
+#### 历史网名（其实也不怎么重要喵 黑历史喵
 1.江南QwQ
-2.江南_XnLr
-3.柚见小南Yuzumikonami
+2.Jack_Eason
+3.江南_XnLr
+4.柚见小南Yuzumikonami
 
 >**路虽远，行则将至；事虽难，做则必成。**   
 >-----《荀子·修身》
