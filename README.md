@@ -1,13 +1,13 @@
 # 柚见小南Yuzumikonami
 一个普通初中生QwQ。。。
 
-#### 目前开发语言   
-1.HTML   
-2.CSS   
-3.JavaScript   
-4.Python   
-5.BashShell
-6.Kotlin
+#### 技术栈喵
+1.Python   
+2.BashShell   
+3.Kotlin   
+4.前端
+5.汇编
+6.网安
 
 #### 目前开发项目   
 <mark><a href=https://github.com/jiangnan-qwq/aethercraft>AetherCraft开服脚本</a></mark>   
