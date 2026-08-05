@@ -30,17 +30,6 @@
   <img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yuzumikonami&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff9ece&icon_color=ff9ece&text_color=c9d1d9" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuzumikonami&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff9ece&text_color=c9d1d9" height="160" />
-</div>
-
----
-
 ### 🚀 Projects
 
 | 项目 | 简介 |
