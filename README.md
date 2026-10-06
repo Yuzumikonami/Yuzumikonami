@@ -36,7 +36,6 @@
 |------|------|
 | [AetherCraft](https://github.com/Yuzumikonami/AetherCraft) | MC 开服脚本 |
 | [BA-Logo](https://github.com/Yuzumikonami/BA-Logo) | 蔚蓝档案 Logo 生成器 |
-| [个人主页](https://www.konatonami.top) | 窝的网站喵 |
 
 ---
 
@@ -44,7 +43,6 @@
 
 - 🌐 [个人主页](https://www.konatonami.top)
 - 📺 [Bilibili](https://b23.tv/FDVU07L)
-- 🐱 就是这里喵
 
 ---
 
